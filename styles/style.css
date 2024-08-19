@@ -259,14 +259,6 @@ textarea {
 }
 
 
-@media screen and (max-width: 540px) {
-    .about-img {
-        width: 200px;
-        height: 200px;
-    }
-}
-
-
 .about-img img {
     width: 100%;
     height: 100%;
