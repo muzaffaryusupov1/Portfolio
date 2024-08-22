@@ -168,19 +168,6 @@ textarea {
 }
 
 
-@media screen and (max-width: 550px) {
-    .banner-wrapper{
-        height: 440px;
-    }
-}
-
-
-@media screen and (max-width: 450px) {
-    .banner-wrapper{
-        height: 390px;
-    }
-}
-
 
 .banner-content {
     display: flex;
